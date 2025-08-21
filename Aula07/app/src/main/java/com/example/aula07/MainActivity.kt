@@ -1,4 +1,4 @@
-package com.example.aula07
+ package com.example.aula07
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -55,7 +55,7 @@ fun HomeScreen() {
             modifier = Modifier.padding(12.dp)
         )
 
-        Nota()
+        Nota("Dançar tango")
     }
 
 }
